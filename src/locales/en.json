@@ -1,0 +1,96 @@
+
+{
+  "Step1": "Step 1: Personal Information",
+
+  "FullName": "Full Name",
+  "FullNameRequired": "Full Name is required",
+
+  "NationalID": "National ID",
+  "NationalIDRequired": "National ID is required",
+   "OnlyNumbers": "Only numbers are allowed",
+
+  "DateOfBirth": "Date of Birth",
+  "DateOfBirthRequired": "Date of Birth is required",
+
+  "Gender": "Gender",
+  "GenderRequired": "Gender is required",
+  "Male": "Male",
+  "Female": "Female",
+
+  "Address": "Address",
+  "AddressRequired": "Address is required",
+
+  "City": "City",
+  "CityRequired": "City is required",
+
+  "State": "State",
+  "StateRequired": "State is required",
+
+  "Country": "Country",
+  "CountryRequired": "Country is required",
+
+  "Phone": "Phone",
+  "PhoneRequired": "Phone is required",
+  "minLength": "Invalid phone number",
+
+  "Email": "Email",
+  "EmailRequired": "Email is required",
+  "InvalidEmail": "Invalid email address",
+
+  "Next": "Next",
+  "Back": "Back",
+  "arrowForward": "→",
+  "arrowBack": "←",
+
+
+
+  "Step2": "Step 2: Family & Financial Info",
+
+  "MaritalStatus": "Marital Status",
+  "MaritalStatusRequired": "Please select marital status",
+
+  "Dependents": "Dependents",
+  "DependentsRequired": "Please enter number of dependents",
+  "DependentsPositive": "Must be positive",
+
+  "EmploymentStatus": "Employment Status",
+  "EmploymentStatusRequired": "Please select employment status",
+
+  "MonthlyIncome": "Monthly Income (AED)",
+  "MonthlyIncomeRequired": "Please enter monthly income",
+  "MonthlyIncomePositive": "Income must be positive",
+
+  "HousingStatus": "Housing Status",
+  "HousingStatusRequired": "Please select housing status",
+
+  "Single": "Single",
+  "Married": "Married",
+  "Employed": "Employed",
+  "Unemployed": "Unemployed",
+  "SelfEmployed": "Self-employed",
+  "Own": "Own",
+  "Rent": "Rent",
+  "Family": "Living with family",
+
+  "Step3": "Step 3: Situation Descriptions",
+  "CurrentFinancialSituation": "Current Financial Situation",
+  "EmploymentCircumstances": "Employment Circumstances",
+  "ReasonForApplying": "Reason for Applying",
+  "HelpMeWrite": "Help Me Write",
+  "AISuggestion": "AI Suggestion",
+  "Generating": "Generating...",
+  "FieldRequired": "This field is required",
+  "Discard": "Discard",
+  "Accept": "Accept",
+  "Submit": "Submit",
+  "FormSubmitted": "Form submitted successfully!",
+  "AiFeatureDisabled": "AI generation is disabled for this demo. In production, it would fetch data using an API key.",
+
+   "Selectoption": "Please select an option"
+}
+
+
+
+
+
+

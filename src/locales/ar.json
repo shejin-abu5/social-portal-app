@@ -1,0 +1,86 @@
+{
+  "Step1": "الخطوة 1: المعلومات الشخصية",
+
+  "FullName": "الاسم الكامل",
+  "FullNameRequired": "الاسم الكامل مطلوب",
+
+  "NationalID": "رقم الهوية الوطنية",
+  "NationalIDRequired": "رقم الهوية الوطنية مطلوب",
+  "OnlyNumbers": "يُسمح بالأرقام فقط",
+
+  "DateOfBirth": "تاريخ الميلاد",
+  "DateOfBirthRequired": "تاريخ الميلاد مطلوب",
+
+  "Gender": "الجنس",
+  "GenderRequired": "الجنس مطلوب",
+  "Male": "ذكر",
+  "Female": "أنثى",
+
+  "Address": "العنوان",
+  "AddressRequired": "العنوان مطلوب",
+
+  "City": "المدينة",
+  "CityRequired": "المدينة مطلوبة",
+
+  "State": "الولاية",
+  "StateRequired": "الولاية مطلوبة",
+
+  "Country": "الدولة",
+  "CountryRequired": "الدولة مطلوبة",
+
+  "Phone": "الهاتف",
+  "PhoneRequired": "الهاتف مطلوب",
+  "minLength": "رقم الهاتف غير صحيح",
+
+  "Email": "البريد الإلكتروني",
+  "EmailRequired": "البريد الإلكتروني مطلوب",
+   "InvalidEmail": "البريد الإلكتروني غير صحيح",
+
+  "Next": "التالي",
+  "Back": "رجوع",
+  "arrowForward": "←",
+  "arrowBack": "→",
+
+
+  "Step2": "الخطوة 2: معلومات الأسرة والمالية",
+
+  "MaritalStatus": "الحالة الاجتماعية",
+  "MaritalStatusRequired": "يرجى الاختيار",
+
+  "Dependents": "عدد المعالين",
+  "DependentsRequired": "يرجى إدخال عدد المعالين",
+  "DependentsPositive": "يجب أن يكون الرقم موجبًا",
+
+  "EmploymentStatus": "حالة العمل",
+  "EmploymentStatusRequired": "يرجى اختيار حالة العمل",
+
+  "MonthlyIncome": "الدخل الشهري (درهم)",
+  "MonthlyIncomeRequired": "يرجى إدخال الدخل الشهري",
+  "MonthlyIncomePositive": "يجب أن يكون الدخل موجبًا",
+
+  "HousingStatus": "حالة السكن",
+  "HousingStatusRequired": "يرجى اختيار حالة السكن",
+
+  "Single": "أعزب",
+  "Married": "متزوج",
+  "Employed": "موظف",
+  "Unemployed": "عاطل عن العمل",
+  "SelfEmployed": "عمل حر",
+  "Own": "ملك",
+  "Rent": "إيجار",
+  "Family": "أعيش مع العائلة",
+
+  "Step3": "الخطوة 3: أوصاف الحالة",
+  "CurrentFinancialSituation": "الوضع المالي الحالي",
+  "CurrentFinancialSituationRequired": "يجب إدخال الوضع المالي الحالي",
+  "EmploymentCircumstances": "ظروف العمل",
+  "EmploymentCircumstancesRequired": "يجب إدخال ظروف العمل",
+  "ReasonForApplying": "سبب التقديم",
+  "ReasonForApplyingRequired": "يجب إدخال سبب التقديم",
+  "HelpMeWrite": "ساعدني في الكتابة",
+  "Accept": "قبول",
+  "Discard": "تجاهل",
+  "Submit": "إرسال",
+
+  "Selectoption": "يرجى الاختيار"
+}
