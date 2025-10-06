@@ -55,5 +55,3 @@ export async function generateSituationDescription(situationType, info) {
   }
 }
 
-
-export { generateSituationDescription };
