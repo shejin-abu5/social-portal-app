@@ -12,7 +12,7 @@ Users can easily apply for financial assistance, and the system includes a mock 
 - Responsive layout (mobile → desktop)  
 - Accessible (basic ARIA roles, keyboard navigation)  
 - English + Arabic (RTL ready) structure  
-- Mock “Help Me Write” AI popup (simulated without API key)  
+- Mock “Help Me Write” AI popup (simulated with Gemini AI API key)  
 - Mock API submission  
 
 ---
@@ -23,7 +23,6 @@ Users can easily apply for financial assistance, and the system includes a mock 
 - **Tailwind CSS** (utility-first styling)
 - **React Hook Form** for validations
 - **Context API** for global form state
-- **Mock AI handler** (no API key required)
 
 ---
 

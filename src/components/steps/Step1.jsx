@@ -117,7 +117,7 @@ export default function Step1({ formData, setFormData, nextStep }) {
       </div>
 
       <button type="submit" 
-                className="ml-auto flex rounded-full cursor-pointer border border-gray-950 bg-gray-950 px-5 py-3 text-md font-bold tracking-widest text-white uppercase dark:border-gray-700 dark:bg-gray-700"
+                className="ml-auto flex rounded-full cursor-pointer border border-gray-950 bg-gray-950 px-5 py-3 text-sm font-bold tracking-widest text-white uppercase dark:border-gray-700 dark:bg-gray-700"
 
       >
         {t("Next")} &nbsp; <span>{t("arrowForward")}</span>

@@ -98,14 +98,14 @@ export default function Step2({ formData, setFormData, nextStep, prevStep }) {
         <button
           type="button"
           onClick={prevStep}
-          className="rounded-full cursor-pointer border border-gray-500 bg-gray-500 px-5 py-3 text-md font-bold tracking-widest text-white uppercase"
+          className="rounded-full cursor-pointer border border-gray-500 bg-gray-500 px-5 py-3 text-sm font-bold tracking-widest text-white uppercase"
         >
   
            {t("Back")} &nbsp; <span>{t("arrowBack")}</span>
         </button>
         <button
           type="submit"
-          className="rounded-full border cursor-pointer border-gray-950 bg-gray-950 px-5 py-3 text-md font-bold tracking-widest text-white uppercase"
+          className="rounded-full border cursor-pointer border-gray-950 bg-gray-950 px-5 py-3 text-sm font-bold tracking-widest text-white uppercase"
         >
            {t("Next")} &nbsp; <span>{t("arrowForward")}</span>
         </button>
